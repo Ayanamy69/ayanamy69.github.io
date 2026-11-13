@@ -8,5 +8,5 @@
   "int_all": "0",
   "api_url": "https://api.vk.com",
   "auth_url": "https://oauth.vk.com",
-  "UA": "VKWP/4.12 (Windows Phone 8.10.14219.0; NOKIA RM-846)"
+  "UA": "com.vk.vkclient/12 (unknown, iPhone OS 9.3.3, iPhone, Scale/2.000000)"
 }
